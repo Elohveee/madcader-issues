@@ -32,7 +32,7 @@
 
 MadCADer is a 3D designer for T-slot aluminum frames, from workbenches and enclosures to printer frames and whatever else you're bolting together. You place beams, snap them together with real connector hardware, and get a cut list and parts count you can order from.
 
-The code is private, but **this repo is fully public**. Anyone with a GitHub account can file, read, upvote and follow issues here.
+Anyone with a GitHub account can file, read, upvote and follow issues here.
 
 You can also get here from inside the app:
 
