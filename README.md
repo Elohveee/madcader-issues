@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://madcader.com">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/wordmark-dark.svg">
-      <img src="assets/wordmark-light.svg" alt="MadCADer" width="360">
+      <source media="(prefers-color-scheme: dark)" srcset="assets/madcader-wordmark-dark.svg">
+      <img src="assets/madcader-wordmark-light.svg" alt="MadCADer" width="360">
     </picture>
   </a>
 </p>
